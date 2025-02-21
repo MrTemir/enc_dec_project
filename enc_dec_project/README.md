@@ -1,7 +1,7 @@
 This guide provides step-by-step instructions on how to use the Encryption/Decryption Program in its .exe format. The program allows you to encrypt and decrypt text using various cryptographic algorithms, including Caesar Cipher, Morse Code, HEX, and Affine Cipher.
 System Requirements
 Operating System: Windows 7 or later.
-Java Runtime Environment (JRE): Ensure you have JRE installed on your system. If not, download and install it from Oracle's website.
+Java Runtime Environment (JRE),JavaFX: Ensure you have JRE and JavaFX installed on your system. If not, download and install it from Oracle's website.
 How to Use the Program
 Launch the Program:
 Double-click the .exe file to start the program.
